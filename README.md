@@ -10,13 +10,15 @@
 - [ ] Colocar a conta inteira da média em apenas uma linha<br>
 
 ### Imagens.
+![img](https://files.catbox.moe/kfyuau.PNG)
+<br><br>
 Aprovado:
 <br>
-![img](https://files.catbox.moe/tcnpfn.PNG)
+![img](https://files.catbox.moe/burroh.PNG)
 <br><br>
 Reprovado:
 <br>
-![img](https://files.catbox.moe/6vxrnn.PNG)
+![img](https://files.catbox.moe/fux4hj.PNG)
 
 ### Tecnologias usadas.
 - HTML
